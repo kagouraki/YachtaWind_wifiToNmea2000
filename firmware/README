@@ -1,0 +1,2 @@
+This is the software. I wrote it in eclipse but all the libraries are in the libraries folder and can be compiled in the arduino IDE. 
+If you dont want to compile anything there is a .bin file in the Release folder. Just flash this file to esp32.
